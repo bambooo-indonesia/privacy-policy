@@ -1,4 +1,4 @@
-# privacy-policy
+# Privacy Policy
 Privacy Policy Bamboo Indonesia
 Bambooo Indonesia built the LastBeat app as an Ad Supported app. This SERVICE is provided by Bambooo21 Studio at no cost and is intended for use as is.
 
