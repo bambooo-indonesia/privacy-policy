@@ -1,5 +1,5 @@
 # Privacy Policy
-Bambooo21 Studio as subsidiary company from Bamboo Indoneisa providing a unique or innovative solution, use case, and experience in built the an usefull apps and games. This SERVICE is provided by Bambooo21 Studio at no cost and is intended for use as is.
+Bambooo21 Studio as subsidiary company from Bamboo Indonesia providing a unique or innovative solution, use case, and experience in built the an usefull apps and games. This SERVICE is provided by Bambooo21 Studio at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
