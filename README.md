@@ -1,6 +1,6 @@
 # Privacy Policy
 Privacy Policy Bamboo Indonesia
-Bambooo Indonesia built the LastBeat app as an Ad Supported app. This SERVICE is provided by Bambooo21 Studio at no cost and is intended for use as is.
+Bambooo21 Studio built the Aiditel Receiver app as an Internal Communication app. This SERVICE is provided by Bambooo21 Studio at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
