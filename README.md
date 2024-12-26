@@ -1,5 +1,5 @@
 # Privacy Policy
-Bambooo21 Studio built the Aiditel Receiver app as an Internal Communication app. This SERVICE is provided by Bambooo21 Studio at no cost and is intended for use as is.
+Bambooo21 Studio as subsidiary company from Bamboo Indoneisa providing a unique or innovative solution, use case, and experience in built the an usefull apps and games. This SERVICE is provided by Bambooo21 Studio at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -45,7 +45,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 ### Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-06-27
+This policy is effective as of 2024-12-26
 
 Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at studiobambooo21@gmail.com.
